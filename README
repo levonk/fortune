@@ -1,0 +1,6 @@
+Custom quotes for the program in
+sudo aptitude install bsdgames
+# http://linux.die.net/man/6/fortune
+man 6 fortune
+# http://linux.die.net/man/1/unstr
+man 1 unstr
