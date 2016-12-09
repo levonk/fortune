@@ -1,4 +1,8 @@
 %
+As a rule, software systems do not work well until they have
+been used, and have failed repeatedly, in real applications.
+	- David Parnas
+%
 All truth passes through three stages.
 First, it is ridiculed.
 Second, it is violently opposed.
