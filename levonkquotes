@@ -1,4 +1,8 @@
 %
+You built it, you run it.
+	- Werner Vogels - Amazon CTO
+	ACM Queue Volume 4, Issue 4 - 2006
+%
 The basic thesis of this article is that organizations which design systems
 (in the borad sense used here) are constrained to produce designs which
 are copies of the communication structures of these organizations.
