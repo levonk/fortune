@@ -1,4 +1,10 @@
 %
+The basic thesis of this article is that organizations which design systems
+(in the borad sense used here) are constrained to produce designs which
+are copies of the communication structures of these organizations.
+	- Melvin E. Conway - 1968 - Conway's Law
+	How Do Committees Invent?
+%
 Data modeling on the fly moulds like putty, but it sets like concrete.
 	- Thomas Frisendal (Author)
 %
