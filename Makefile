@@ -3,5 +3,5 @@ POSSIBLE += $(shell ls -1 | egrep -v '\.dat|README|Makefile|\.sh' | sed -e 's/$$
 all: ${POSSIBLE}
 
 %.dat: %
-	@echo $< $@
 	@strfile $< $@
+	@fortune $<
