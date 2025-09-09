@@ -1690,6 +1690,129 @@ Hell, there are no rules here - we're trying to accomplish something.
 Religion is all bunk.
 	- Thomas A. Edison
 %
+Gall's Law: A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. #model #think #modelthink
+	- John Gall
+%
+Goodhart's Law: When a measure becomes a target, it ceases to be a good measure. #model #think #modelthink
+	- Charles Goodhart
+%
+Hanlon's Razor: We should not attribute to malice that which is more easily explained by stupidity. #model #think #modelthink
+	- Robert J. Hanlon
+%
+Hick's Law: Decision time grows logarithmically with the number of options you can choose from. #model #think #modelthink
+	- William Edmund Hick and Ray Hyman
+%
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. #model #think #modelthink
+	- Douglas Hofstadter
+%
+Kerckhoffs's Principle: A cryptographic algorithm can be public because all confidentiality relies on the secrecy of the key. #model #think #modelthink
+	- Auguste Kerckhoffs
+%
+Knuth's Optimization Principle: Premature optimization is the root of all evil. #model #think #modelthink
+	- Donald Knuth
+%
+Lindy Effect: Things that have been around longer are likely to stay around longer. #model #think #modelthink
+	- Nassim Nicholas Taleb
+%
+Linus's Law: Given enough eyeballs, all bugs are shallow. #model #think #modelthink
+	- Linus Torvalds
+%
+Metcalfe's Law: In network theory, the value of a system grows as approximately the square of the number of users of the system. #model #think #modelthink
+	- Robert Metcalfe
+%
+Moore's Law: The number of transistors in an integrated circuit doubles about every two years. #model #think #modelthink
+	- Gordon Moore
+%
+Murphy's Law: Anything that can go wrong will go wrong. #model #think #modelthink
+	- Edward A. Murphy Jr.
+%
+Occam's Razor: The simplest explanation is the most likely explanation. #model #think #modelthink
+	- William of Ockham
+%
+Pareto Principle: The majority of results come from a minority of causes. #model #think #modelthink
+	- Vilfredo Pareto
+%
+Parkinson's Law: Work expands so as to fill the time available for its completion. #model #think #modelthink
+	- Cyril Northcote Parkinson
+%
+Goldilocks Rule: Humans experience peak motivation when working on tasks that are right at the edge of their current abilities. #model #think #modelthink
+	- author unknown
+%
+Green Lumber Fallacy: Mistake of conflating knowledge of irrelevant facts with knowledge to make effective decisions. #model #think #modelthink
+	- author unknown
+%
+Hamster Wheel of Pain: Common security loop of "patch and pray" where vulnerabilities are patched ad nauseum. #model #think #modelthink
+	- author unknown
+%
+Hemingway Bridge: Putting down work when you know the next steps so that you can start (bridge) the next session with momentum. #model #think #modelthink
+	- author unknown
+%
+Hindsight Bias: Feeling that prediction was possible after an event had occurred, i.e. "I knew it all along!" #model #think #modelthink
+	- author unknown
+%
+Hyrum's Law: With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody. #model #think #modelthink
+	- author unknown
+%
+Ideomotor Effect: Influencing of an action by the idea. #model #think #modelthink
+	- author unknown
+%
+Interface Segregation Principle: No client should be forced to depend on methods it does not use. #model #think #modelthink
+	- author unknown
+%
+Jevons Paradox: Consumption of a resource may increase as a response to greater efficiency in its use. #model #think #modelthink
+	- author unknown
+%
+Johari Window: A 2x2 matrix of what is known/unknown to self vs. others. #model #think #modelthink
+	- author unknown
+%
+KISS: Keep it simple (stupid) #model #think #modelthink
+	- author unknown
+%
+Kernighan's Law: Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. #model #think #modelthink
+	- author unknown
+%
+Lampson's Law: Neither abstraction nor simplicity is a substitute for getting it right. #model #think #modelthink
+	- author unknown
+%
+Law of Demeter: Each unit should have only limited knowledge about other units: only units "closely" related to the current unit. #model #think #modelthink
+	- author unknown
+%
+Law of Triviality: People within an organization commonly give disproportionate weight to trivial issues. #model #think #modelthink
+	- author unknown
+%
+Law of Leaky Abstractions: All non-trivial abstractions, to some degree, are leaky. #model #think #modelthink
+	- author unknown
+%
+Law of Sufficient Variety: In order to ensure stability, a control system must be able to represent all states of the system and controls. #model #think #modelthink
+	- author unknown
+%
+Ludic Fallacy: The misuse of games to model real-life situations. #model #think #modelthink
+	- author unknown
+%
+Map vs. Territory: Often conflating the map (a model) with the territory (reality). #model #think #modelthink
+	- author unknown
+%
+Maslow's Hammer: If all you have is a hammer, everything looks like a nail. #model #think #modelthink
+	- author unknown
+%
+Open/Closed Principle: Entities should be open for extension and closed for modification. #model #think #modelthink
+	- author unknown
+%
+Ousterhout's Law: When possible, avoid "voodoo constants", or values in systems that require "black magic" to set correctly. #model #think #modelthink
+	- author unknown
+%
+P-PC Balance: Trade-off between maximizing production vs. production capability. #model #think #modelthink
+	- author unknown
+%
+Peter Principle: People in a hierarchy tend to rise to their "level of incompetence". #model #think #modelthink
+	- author unknown
+%
+Postel's Law: Be conservative in what you do, be liberal in what you accept from others. #model #think #modelthink
+	- author unknown
+%
+Premack's Principle: More desirable behaviors can be used to reinforce less desirable behaviors. #model #think #modelthink
+	- author unknown
+%
 The chief function of the body is to carry the brain around.
 	- Thomas A. Edison
 %
